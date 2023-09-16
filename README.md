@@ -2,18 +2,16 @@
 
 <h3 align="center">A geek with a kink for problem solving</h3>
 
-I'm also
+<h3>I'm also</h3>
+  
 - 🌎 based in **Salvador, Brazil**
+
 - 🔭 currently majoring in **Software Engineering**
+
 - 🌱 learning Fullstack development with **Java + Angular**
+
 - 🫱🏿‍🫲🏼 seeking an *internship* or *junior position* in **Software Analysis/Development**
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/isaac-conceicao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac-conceicao" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -65,4 +63,9 @@ I'm also
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/isaac-conceicao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac-conceicao" height="30" width="40" /></a>
 </p>
