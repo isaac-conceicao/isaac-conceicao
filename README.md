@@ -26,7 +26,7 @@
 
 - 🫱🏿‍🫲🏼 seeking an *internship* or *junior position*, so...
 ```javascript
-  if (youAre === "looking") {
+if (youAre === "looking") {
   for (enthusiast in tech) {
     codingAdventure.setStatus("READY");
     let s = "CONNECT";
