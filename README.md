@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="custom.css">
+
 <h2 align="center">Hello World 👋, I'm Isaac</h2>
 
 <h3 align="center">A geek with a kink for problem solving</h3>
@@ -22,7 +24,15 @@
    </l>
   </ul>
 
-- 🫱🏿‍🫲🏼 seeking an *internship* or *junior position* in **Software Analysis/Development**
+- 🫱🏿‍🫲🏼 seeking an *internship* or *junior position*, so...
+```javascript
+  if (youAre === "looking") {
+  for (enthusiast in tech) {
+    codingAdventure.setStatus("READY");
+    let s = "CONNECT";
+  }
+}
+```
 
 <h3 align="left">reach me on</h3>
 <p align="left">
