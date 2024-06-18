@@ -10,7 +10,7 @@
 
 - 🔭 currently majoring in **Software Engineering** at IFBA
 
-- 🌱 learning Fullstack development with:
+- 🌱 Working with Fullstack development with:
   <ul>
     <l>
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
