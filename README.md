@@ -6,11 +6,11 @@
 
 <h3>I'm</h3>
   
-- 🌎 based in **Salvador, Brazil**
+- 🌎 based in **Brazil**
 
 - 🔭 currently majoring in **Software Engineering** at IFBA
 
-- 🌱 Working with Fullstack development with:
+- 🌱 Working my way on fullstack development with:
   <ul>
     <l>
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -24,11 +24,11 @@
    </l>
   </ul>
 
-- 🫱🏿‍🫲🏼 seeking an *internship* or *junior position*, so...
+- 🫱🏿‍🫲🏼 seeking a **software engineering position**, so...
 ```javascript
 if (youAre === "looking") {
   for (enthusiast in tech) {
-    codingAdventure.setStatus("READY");
+    coding_adventure.setStatus("READY!");
     let s = "CONNECT";
   }
 }
@@ -40,7 +40,7 @@ if (youAre === "looking") {
 </p>
 
 ---
-<h3 align="left">This is how i roll</h3>
+<h3 align="left">this is how i roll with my friends:</h3>
 <p align="left">
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
